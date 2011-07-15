@@ -3,7 +3,7 @@ Contributors: coffee2code
 Donate link: http://coffee2code.com/donate
 Tags: columns, array, partitions, coffee2code
 Requires at least: 1.2
-Tested up to: 3.2
+Tested up to: 3.2.1
 Stable tag: 1.1.1
 Version: 1.1.1
 
@@ -154,3 +154,4 @@ Trivial update: noted compatibility through WP 3.1+ and updated copyright date
 
 = 1.0.2 =
 Minor update. Highlights: added if(function_exists()) check around array_partition(); minor text reorganization; added verified WP 3.0 compatibility.
+
