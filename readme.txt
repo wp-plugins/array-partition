@@ -3,7 +3,7 @@ Contributors: coffee2code
 Donate link: http://coffee2code.com/donate
 Tags: columns, array, partitions, coffee2code
 Requires at least: 1.2
-Tested up to: 3.2
+Tested up to: 3.2.1
 Stable tag: 1.1.1
 Version: 1.1.1
 
